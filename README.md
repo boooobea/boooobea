@@ -15,13 +15,10 @@
  <br/>
 </p>
 
-<!--
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=boooobea&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boooobea&layout=compact&hide_border=true&theme=white)
--->
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=boooobea&show_icons=true&hide_border=true&&count_private=true" />-->
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boooobea&show_icons=true&hide_border=true&&count_private=true)-->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boooobea&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boooobea&layout=compact&hide_border=true&theme=gruvbox)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boooobea&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boooobea&layout=compact&hide_border=true&theme=gruvbox"/>
+</div>
 
 
 ## 🛠️ Tech Stack 
